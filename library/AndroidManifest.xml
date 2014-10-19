@@ -3,10 +3,6 @@
     android:versionCode="4"
     android:versionName="1.0.3" >
 
-    <uses-sdk
-        android:minSdkVersion="8"
-        android:targetSdkVersion="15" />
-
     <application />
 
 </manifest>
